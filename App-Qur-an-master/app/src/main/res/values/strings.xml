@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Al-Quran</string>
+    <string name="google_maps_key">AIzaSyCkd7fG5-yvVOW1R50MDAJMkhciUUrliPk</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
